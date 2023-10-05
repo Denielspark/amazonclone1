@@ -1,0 +1,27 @@
+body{
+    text-align: center;
+}
+div{
+    height: 100px;
+    width: 100px;
+    display: inline-block;
+    border: 2px solid black;
+    
+}
+#container{
+ width: 800px;
+ height: 200px;
+ display: flex;
+}
+#box1{
+    background-color: aqua;
+}
+#box2{
+    background-color: blue;
+}
+#box3{
+    background-color: pink;
+}
+#box4{
+    background-color: green;
+}
